@@ -59,11 +59,6 @@ I'm a passionate Full Stack Developer who loves building modern and responsive w
 
 ---
 
-## 📈 GitHub Stats
-![Utkarsh's GitHub Stats](https://github.com/Utkarsh-2711)
-
----
-
 ## 🤝 Connect with Me
 <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin-right:10px;"/>
