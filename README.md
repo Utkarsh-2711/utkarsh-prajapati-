@@ -68,25 +68,24 @@ I'm a passionate Full Stack Developer who loves building modern and responsive w
 ## 🤝 Connect with Me
 ## 🤝 Connect with Me
 
-<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right:10px;"/>
-</a>
+## 🤝 Connect with Me
 
-<a href="https://twitter.com/your-twitter" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40" style="margin-right:10px;"/>
+<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin-right:10px;"/>
 </a>
 
 <a href="https://www.instagram.com/your-instagram/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40" style="margin-right:10px;"/>
 </a>
 
 <a href="https://www.facebook.com/your-facebook/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" width="40" height="40" style="margin-right:10px;"/>
 </a>
 
 <a href="mailto:your-email@example.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40" style="margin-right:10px;"/>
 </a>
+
 
 ---
 
