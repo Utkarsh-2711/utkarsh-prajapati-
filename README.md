@@ -66,14 +66,15 @@ I'm a passionate Full Stack Developer who loves building modern and responsive w
 ---
 
 ## 🤝 Connect with Me
-## 🤝 Connect with Me
-## 🤝 Connect with Me
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="margin-right:10px; filter: invert(33%) sepia(100%) saturate(3000%) hue-rotate(197deg) brightness(95%) contrast(95%);"/>](https://www.linkedin.com/in/your-linkedin/)
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg)](https://www.linkedin.com/in/your-linkedin/)
-[![Twitter](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg)](https://twitter.com/your-twitter)
-[![Instagram](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg)](https://www.instagram.com/your-instagram/)
-[![Facebook](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg)](https://www.facebook.com/your-facebook/)
-[![Gmail](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg)](mailto:your-email@example.com)
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" height="30" width="30" style="margin-right:10px; filter: invert(55%) sepia(91%) saturate(2725%) hue-rotate(180deg) brightness(95%) contrast(95%);"/>](https://twitter.com/your-twitter)
+
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" height="30" width="30" style="margin-right:10px; filter: invert(45%) sepia(98%) saturate(275%) hue-rotate(310deg) brightness(95%) contrast(95%);"/>](https://www.instagram.com/your-instagram/)
+
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" height="30" width="30" style="margin-right:10px; filter: invert(34%) sepia(86%) saturate(2411%) hue-rotate(200deg) brightness(95%) contrast(95%);"/>](https://www.facebook.com/your-facebook/)
+
+[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="30" style="margin-right:10px; filter: invert(20%) sepia(89%) saturate(4800%) hue-rotate(355deg) brightness(95%) contrast(95%);"/>](mailto:your-email@example.com)
 
 ---
 
