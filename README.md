@@ -1,31 +1,27 @@
 <img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
 
 
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
+<p><em>A bachelor student at <a href="">SILVER OAK UNIVERSITY</a>,Bachelor of Computer Applications😊</br>
 </em></p>
 
 
-```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   pronouns: "he/him",
+   code: ["HTML5", "CSS3", "JavaScript", "Bootstrap", "React.js", "Node.js", "Express.js", "MongoDB", "MySQL"],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React.js"],
+         css: ["Bootstrap"]
       },
       backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         js: ["Node.js", "Express.js"],
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: ["MongoDB", "MySQL", "SQLServer"],
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["Last year student, open for job opportunities"],
+   challenge: "I'm working towards becoming the best Full Stack Developer I can be.",
 };
+
 ```
 </br></br>
 <h2>💻 Some stats 💻</h2>
@@ -147,10 +143,6 @@ I'm a passionate Full Stack Developer who loves building modern and responsive w
 ---
 
 ## 🤝 Connect with Me
-## 🤝 Connect with Me
-
-## 🤝 Connect with Me
-
 <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="40" height="40" style="margin-right:10px;"/>
 </a>
