@@ -1,80 +1,3 @@
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
-
-
-<p><em>A bachelor student at <a href="">SILVER OAK UNIVERSITY</a>,Bachelor of Computer Applications😊</br>
-</em></p>
-
-
-const aboutMe = {
-   pronouns: "he/him",
-   code: ["HTML5", "CSS3", "JavaScript", "Bootstrap", "React.js", "Node.js", "Express.js", "MongoDB", "MySQL"],
-   technologies: {
-      frontEnd: {
-         js: ["React.js"],
-         css: ["Bootstrap"]
-      },
-      backEnd: {
-         js: ["Node.js", "Express.js"],
-      },
-      databases: ["MongoDB", "MySQL", "SQLServer"],
-   },
-   currentOccupation: ["Last year student, open for job opportunities"],
-   challenge: "I'm working towards becoming the best Full Stack Developer I can be.",
-};
-
-```
-</br></br>
-<h2>💻 Some stats 💻</h2>
-
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Hi there 👋, I'm Utkarsh Prajapati
 
 ### 🌐 Full Stack Developer | HTML5 | CSS3 | JavaScript | Bootstrap | React.js | Node.js | Express.js | MongoDB | MySQL
@@ -92,7 +15,6 @@ I'm a passionate Full Stack Developer who loves building modern and responsive w
 
 
 ---
-
 ## 💻 Tech Stack
 
 ### Frontend
@@ -158,7 +80,6 @@ I'm a passionate Full Stack Developer who loves building modern and responsive w
 <a href="mailto:your-email@example.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40" style="margin-right:10px;"/>
 </a>
-
 
 ---
 
