@@ -66,15 +66,27 @@ I'm a passionate Full Stack Developer who loves building modern and responsive w
 ---
 
 ## 🤝 Connect with Me
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" style="margin-right:10px; filter: invert(33%) sepia(100%) saturate(3000%) hue-rotate(197deg) brightness(95%) contrast(95%);"/>](https://www.linkedin.com/in/your-linkedin/)
+## 🤝 Connect with Me
 
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" height="30" width="30" style="margin-right:10px; filter: invert(55%) sepia(91%) saturate(2725%) hue-rotate(180deg) brightness(95%) contrast(95%);"/>](https://twitter.com/your-twitter)
+<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right:10px;"/>
+</a>
 
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" height="30" width="30" style="margin-right:10px; filter: invert(45%) sepia(98%) saturate(275%) hue-rotate(310deg) brightness(95%) contrast(95%);"/>](https://www.instagram.com/your-instagram/)
+<a href="https://twitter.com/your-twitter" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40" style="margin-right:10px;"/>
+</a>
 
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" height="30" width="30" style="margin-right:10px; filter: invert(34%) sepia(86%) saturate(2411%) hue-rotate(200deg) brightness(95%) contrast(95%);"/>](https://www.facebook.com/your-facebook/)
+<a href="https://www.instagram.com/your-instagram/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40" style="margin-right:10px;"/>
+</a>
 
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="30" style="margin-right:10px; filter: invert(20%) sepia(89%) saturate(4800%) hue-rotate(355deg) brightness(95%) contrast(95%);"/>](mailto:your-email@example.com)
+<a href="https://www.facebook.com/your-facebook/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40" style="margin-right:10px;"/>
+</a>
+
+<a href="mailto:your-email@example.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" style="margin-right:10px;"/>
+</a>
 
 ---
 
