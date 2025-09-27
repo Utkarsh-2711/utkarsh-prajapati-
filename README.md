@@ -60,7 +60,7 @@ I'm a passionate Full Stack Developer who loves building modern and responsive w
 ---
 
 ## 📈 GitHub Stats
-![Utkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Utkarsh's GitHub Stats](https://github.com/Utkarsh-2711)
 
 ---
 
