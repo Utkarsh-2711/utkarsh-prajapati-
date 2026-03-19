@@ -20,8 +20,8 @@ Passionate full‑stack developer building fast, reliable, and user‑first web 
 ## 🛠 Tech Stack
 **Frontend:** React, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind / Bootstrap  
 **Backend:** Node.js, Express.js, REST APIs  
-**Databases:** MongoDB, MySQL, Prisma / Mongoose  
-**Tools:** Git, GitHub, VS Code, Postman, Docker (basics)  
+**Databases:** MongoDB, MySQL, Mongoose  
+**Tools:** Git, GitHub, VS Code, Postman  
 
 ---
 
